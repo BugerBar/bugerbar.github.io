@@ -1,0 +1,21 @@
+.cola-theme-01 .sidebar {
+	background-color:#F7C24A;
+}
+.copy-right {
+	font-size: 16px;
+}
+.post-title a:hover {
+	text-decoration: none;
+	color: #5A5A5A;
+}
+.sidebar-about h1 a {
+	text-decoration: none;
+}
+.sidebar-about h1 a:hover, .sidebar-about h1 a:focus{
+	color: #000;
+	text-decoration: none;
+}
+.person-note {
+	font-weight: 100;
+	font-size: 16px;
+}

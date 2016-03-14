@@ -1,2 +1,8 @@
-# L-theme
-一键搭建github.io轻博客
+# 3Lang's Blog
+
+readme coming soon
+
+## License
+
+Open sourced under the [MIT license](LICENSE.md).
+

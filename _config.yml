@@ -1,0 +1,37 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:		  pretty
+
+excerpt_separator:   '&nbsp;&nbsp;'
+
+# Setup
+title:            Ltheme
+tagline:          'A Jekyll theme'
+description:      '一键搭建简洁双列Github主题博客 <br/> by<a href="https://github.com/EthanOrange" target="_blank">@浪浪浪</a>'
+url:              ""
+baseurl:          ""
+
+author:
+  name:           '浪浪浪'
+  url:            http://github.com/EthanOrange
+
+paginate:         5
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           http://github.com/EthanOrange/L-theme
+
+# Set the Sass partials directory, as we're using @imports
+sass:
+  style: :expanded # You might prefer to minify using :compressed
+
+# Use the following plug-ins
+gems:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-paginate # Use for pagination
